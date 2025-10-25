@@ -1,0 +1,21 @@
+{
+  "name": "dailybrief",
+  "version": "1.0.0",
+  "description": "Emergency Management Situation Report for Austin, TX",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "emergency",
+    "management",
+    "austin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemailer": "^7.0.10",
+    "openai": "^6.7.0"
+  }
+}
